@@ -1,0 +1,2 @@
+# plymouth-splash
+Splash Screen
